@@ -1,6 +1,6 @@
 ![Banner](./Banner.png)
 
-<h1 align="center"> Laptop Hardware Practical</h1>
+<h1 align="center"> Laptop Hardware Practical</h1> 
 
 <p align="center">
   ⚙️ A practical laptop hardware project focused on disassembly, reassembly, component awareness, and hands-on technical learning ⚙️
