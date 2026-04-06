@@ -10,7 +10,7 @@
   <a href="https://github.com/LilianixWebster/LilianixWebster">Profile</a> |
   <a href="https://www.linkedin.com/in/liliani-webster-165229233/">LinkedIn</a> |
   <a href="mailto:lilianiwebster2.0@gmail.com">Email</a> |
-  <a href="file name">Laptop Practical Walkthrough</a>
+  <a href="https://youtu.be/-bxEjFe_cGU"> Hardware Practical Walkthrough</a>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ This part of the project focused on working through the hardware task step by st
   <br>
 
 ### Links
-- [🎥 Watch the Hardware Walkthrough](https://youtu.be/-bxEjFe_cGU)
+- [🎥 Watch the Hardware Practical Walkthrough](https://youtu.be/-bxEjFe_cGU)
 </details>
 
 <details>
