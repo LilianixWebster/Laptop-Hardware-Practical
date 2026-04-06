@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LilianixWebster/LilianixWebster">Profile</a> •
-  <a href="https://www.linkedin.com/in/liliani-webster-165229233/">LinkedIn</a> •
-  <a href="mailto:lilianiwebster2.0@gmail.com">Email</a> •
+  <a href="https://github.com/LilianixWebster/LilianixWebster">Profile</a> |
+  <a href="https://www.linkedin.com/in/liliani-webster-165229233/">LinkedIn</a> |
+  <a href="mailto:lilianiwebster2.0@gmail.com">Email</a> |
   <a href="file name">Laptop Practical Walkthrough</a>
 </p>
 
