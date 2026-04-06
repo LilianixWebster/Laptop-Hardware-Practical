@@ -86,7 +86,7 @@ This part of the project focused on working through the hardware task step by st
   <br>
 
 ### Links
-- [🎥 Watch the video walkthrough](https://youtu.be/-bxEjFe_cGU)
+- [🎥 Watch the Hardware walkthrough](https://youtu.be/-bxEjFe_cGU)
 </details>
 
 <details>
