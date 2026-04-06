@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">Profile</a> •
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_LOOM_LINK">Project Walkthrough</a>
+  <a href="https://github.com/LilianixWebster/LilianixWebster">Profile</a> •
+  <a href="https://www.linkedin.com/in/liliani-webster-165229233/">LinkedIn</a> •
+  <a href="mailto:lilianiwebster2.0@gmail.com">Email</a> •
+  <a href="file name">Laptop Practical Walkthrough</a>
 </p>
 
 <p align="center">
