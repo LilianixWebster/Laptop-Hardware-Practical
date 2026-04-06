@@ -96,7 +96,7 @@ This part of the project focused on working through the hardware task step by st
 - Battery
 - RAM
 - Storage drive
-- Cooling fan
+- Cooling fan/System
 - Motherboard
 - Wireless card
 - Hinges / casing components
